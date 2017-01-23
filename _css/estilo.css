@@ -154,9 +154,9 @@ div#estilo h1{
 }
 
 div.let img{
-	width:50%;
-	height:40%;
-	top:100%;
+	width:10%;
+	height:10%;
+	top:10%;
 }
 
 fieldset#caixa{
@@ -169,6 +169,10 @@ fieldset#caixa{
 	border-color:#FF8C00;
 }
 
+
+
+
+ 
 
 
 
